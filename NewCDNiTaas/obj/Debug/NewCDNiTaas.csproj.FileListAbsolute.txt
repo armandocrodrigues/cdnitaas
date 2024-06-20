@@ -1,0 +1,8 @@
+C:\Armando\JOBS\Itass\Teste\TechnicalTest2-master\NewCDNiTaas\bin\Debug\NewCDNiTaas.exe.config
+C:\Armando\JOBS\Itass\Teste\TechnicalTest2-master\NewCDNiTaas\bin\Debug\NewCDNiTaas.exe
+C:\Armando\JOBS\Itass\Teste\TechnicalTest2-master\NewCDNiTaas\bin\Debug\NewCDNiTaas.pdb
+C:\Armando\JOBS\Itass\Teste\TechnicalTest2-master\NewCDNiTaas\obj\Debug\NewCDNiTaas.csproj.AssemblyReference.cache
+C:\Armando\JOBS\Itass\Teste\TechnicalTest2-master\NewCDNiTaas\obj\Debug\NewCDNiTaas.csproj.SuggestedBindingRedirects.cache
+C:\Armando\JOBS\Itass\Teste\TechnicalTest2-master\NewCDNiTaas\obj\Debug\NewCDNiTaas.csproj.CoreCompileInputs.cache
+C:\Armando\JOBS\Itass\Teste\TechnicalTest2-master\NewCDNiTaas\obj\Debug\NewCDNiTaas.exe
+C:\Armando\JOBS\Itass\Teste\TechnicalTest2-master\NewCDNiTaas\obj\Debug\NewCDNiTaas.pdb
